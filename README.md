@@ -12,8 +12,6 @@ A-ZARS allows you to search for a service within the review using Machine Learni
 
 Python libraries
 
-
-Package Name
 * (Selenium)[https://www.selenium.dev/downloads/]
 * (MySQL connector) [https://www.mysql.com/it/products/connector/]
 * (Pandas)[https://pandas.pydata.org/]
