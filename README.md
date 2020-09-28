@@ -32,31 +32,31 @@ Python libraries
 ### 1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
 
 #### Arguments
-> -Input `reviews.json`
-> -Output `country_geonames_id.json`
+-Input `reviews.json`
+-Output `country_geonames_id.json`
 
 ### 2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
 
 #### Arguments
-> -Input `reviews.json` & `country_geonames_id.json`
-> -Output `reviews_with_geo.json`
+-Input `reviews.json` & `country_geonames_id.json`
+-Output `reviews_with_geo.json`
 
 ### 3. [Language_association.ipynb](Language_association.ipynb)
 
 #### Arguments
-> -Input `reviews_with_geo.json`
-> -Output `reviews_with_language.json`
+-Input `reviews_with_geo.json`
+-Output `reviews_with_language.json`
 
 ### 4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
 
 #### Arguments
-> -Input `*output Reviews_groupby_Language.ipybn*`
-> -Output `[lang]-en.json`
+-Input `*output Reviews_groupby_Language.ipybn*`
+-Output `[lang]-en.json`
 
 
 ### 5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
 
 #### Arguments
-> -place `[REQUIRED]`
+-Input `amenities_translate_en.json`& `[annotation_file].json`
 
 
