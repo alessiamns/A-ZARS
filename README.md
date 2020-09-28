@@ -29,31 +29,31 @@ Python libraries
 
 * Download the file containing the reviews in JSON format
 
-1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
+### 1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
 
 #### Arguments
 > Input `reviews.json`
 > Output `country_geonames_id.json`
 
-2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
+### 2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
 
 #### Arguments
 > Input `reviews.json` & `country_geonames_id.json`
 > Output `reviews_with_geo.json`
 
-3. [Language_association.ipynb](Language_association.ipynb)
+### 3. [Language_association.ipynb](Language_association.ipynb)
 
 #### Arguments
 > Input `reviews_with_geo.json`
 > Output `reviews_with_language.json`
 
-4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
+### 4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
 
 #### Arguments
 > -place `[REQUIRED]`
 
 
-5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
+### 5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
 
 #### Arguments
 > -place `[REQUIRED]`
