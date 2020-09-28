@@ -25,4 +25,11 @@ Python libraries
 * Download zip from GitHub (https://github.com/alessiamns/A-ZARS) 
 * Start Jupyter and run the notebooks
 
+## Running the tests
+
+1. Geonames_scraping.ipynb
+2. GeonamesId_association.ipynb
+3. Language_association.ipynb
+4. Translate_Reviews.ipynb
+5. Breakfast_Analysis.ipynb
 
