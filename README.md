@@ -57,6 +57,5 @@ Python libraries
 ### 5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
 
 #### Arguments
--Input `amenities_translate_en.json`& `[annotation_file].json`
-
+- Input `amenities_translate_en.json`& `[annotation_file].json` & `reviews_for_predict.json`
 
