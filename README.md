@@ -27,9 +27,34 @@ Python libraries
 
 ## Running the tests
 
-1. [Geonames_scraping.ipynb]
-2. [GeonamesId_association.ipynb]
-3. [Language_association.ipynb]
-4. [Translate_Reviews.ipynb]
-5. [Breakfast_Analysis.ipynb]
+* Download the file containing the reviews in JSON format
+
+1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
+
+#### Arguments
+> -place `[REQUIRED]`
+> -pages `[OPTIONAL]`
+> -pr `[OPTIONAL]`
+
+2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
+
+#### Arguments
+> read_json `reviews.json`
+
+3. [Language_association.ipynb](Language_association.ipynb)
+
+#### Arguments
+
+
+4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
+
+#### Arguments
+> -place `[REQUIRED]`
+
+
+5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
+
+#### Arguments
+> -place `[REQUIRED]`
+
 
