@@ -28,6 +28,7 @@ Python libraries
 ## Running code
 
 * Download the file containing the reviews in JSON format from [ZARS](https://github.com/alessiamns/A-ZARS) (table Reviews)
+* Run the code in the following order:
 
 ### 1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
 
