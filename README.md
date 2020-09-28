@@ -12,13 +12,13 @@ A-ZARS allows you to search for a service within the review using Machine Learni
 
 Python libraries
 
-* [Selenium](https://www.selenium.dev/downloads/)
+* [Selenium] (https://www.selenium.dev/downloads/)
 * [MySQL connector] (https://www.mysql.com/it/products/connector/)
-* [Pandas](https://pandas.pydata.org/)
-* [Numpy](https://numpy.org/)
-* [Scikit-learn](https://scikit-learn.org/)
-* [Googletrans](https://py-googletrans.readthedocs.io/en/latest/)
-* [Langdetect](https://pypi.org/project/langdetect/)
+* [Pandas] (https://pandas.pydata.org/)
+* [Numpy] (https://numpy.org/)
+* [Scikit-learn] (https://scikit-learn.org/)
+* [Googletrans] (https://py-googletrans.readthedocs.io/en/latest/)
+* [Langdetect] (https://pypi.org/project/langdetect/)
 
 ## Installation
 
