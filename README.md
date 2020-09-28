@@ -32,19 +32,20 @@ Python libraries
 1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
 
 #### Arguments
-> -place `[REQUIRED]`
-> -pages `[OPTIONAL]`
-> -pr `[OPTIONAL]`
+> Input `reviews.json`
+> Output `country_geonames_id.json`
 
 2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
 
 #### Arguments
-> read_json `reviews.json`
+> Input `reviews.json` & `country_geonames_id.json`
+> Output `reviews_with_geo.json`
 
 3. [Language_association.ipynb](Language_association.ipynb)
 
 #### Arguments
-
+> Input `reviews_with_geo.json`
+> Output `reviews_with_language.json`
 
 4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
 
