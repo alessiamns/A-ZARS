@@ -45,5 +45,5 @@ Python libraries
 ### 3. [DataAnalysis.ipynb](DataAnalysis.ipynb)
 
 #### Arguments
-- Input `amenities_translate_en.json`& `[annotation_file].json` & `reviews_translated.json`
+- Input `amenities.json`& `manual_annotations.json` & `reviews_translated.json`
 
