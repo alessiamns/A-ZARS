@@ -36,21 +36,14 @@ Python libraries
 - Input `reviews.json`
 - Output `reviews_with_geo.json.json`
 
-### 2. [Language_association.ipynb](Language_association.ipynb)
+### 2. [LanguageAnalysis.ipynb](LanguageAnalysis.ipynb)
 
 #### Arguments
 - Input `reviews_with_geo.json`
-- Output `reviews_with_language.json`
-
-### 4. [Translate_Reviews.ipynb](Translate_Reviews.ipynb)
-
-#### Arguments
-- Input `*output Reviews_groupby_Language.ipybn*`
-- Output `[lang]-en.json`
-
+- Output `reviews_translated.json`
 
 ### 5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
 
 #### Arguments
-- Input `amenities_translate_en.json`& `[annotation_file].json` & `reviews_for_predict.json`
+- Input `amenities_translate_en.json`& `[annotation_file].json` & `reviews_translated.json`
 
