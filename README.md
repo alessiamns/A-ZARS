@@ -42,7 +42,7 @@ Python libraries
 - Input `reviews_with_geo.json`
 - Output `reviews_translated.json`
 
-### 5. [Breakfast_Analysis.ipynb](Breakfast_Analysis.ipynb)
+### 5. [DataAnalysis.ipynb](DataAnalysis.ipynb)
 
 #### Arguments
 - Input `amenities_translate_en.json`& `[annotation_file].json` & `reviews_translated.json`
