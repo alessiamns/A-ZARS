@@ -30,19 +30,13 @@ Python libraries
 * Download the file containing the reviews in JSON format from [ZARS](https://github.com/alessiamns/A-ZARS) (table Reviews)
 * Run the code in the following order:
 
-### 1. [Geonames_scraping.ipynb](Geonames_scraping.ipynb)
+### 1. [DatasetEnrichment.ipynb](DatasetEnrichment.ipynb)
 
 #### Arguments
 - Input `reviews.json`
-- Output `country_geonames_id.json`
+- Output `reviews_with_geo.json.json`
 
-### 2. [GeonamesId_association.ipynb](GeonamesId_association.ipynb)
-
-#### Arguments
-- Input `reviews.json` & `country_geonames_id.json`
-- Output `reviews_with_geo.json`
-
-### 3. [Language_association.ipynb](Language_association.ipynb)
+### 2. [Language_association.ipynb](Language_association.ipynb)
 
 #### Arguments
 - Input `reviews_with_geo.json`
